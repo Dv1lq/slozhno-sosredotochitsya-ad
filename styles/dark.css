@@ -1,3 +1,4 @@
+:root,
 :root.theme-dark {
   color-scheme: dark;
   --page-background-color: #000028;
@@ -12,4 +13,22 @@
   --button-hover-border-color: rgb(255 0 112 / 0.4);
   --link-shadow-color: var(--accent-color);
   --rec-display: flex;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root.theme-auto {
+    color-scheme: dark;
+    --page-background-color: #000028;
+    --background-image: url('../images/cover-image-dark.png');
+    --accent-color: #ff0070;
+    --text-color: #f1b2ce;
+    --title-color: #db00ff;
+    --title-decor-text-color: #000028;
+    --shadow-color: #ff0070;
+    --section-title-color: var(--accent-color);
+    --theme-control-color: var(--accent-color);
+    --button-hover-border-color: rgb(255 0 112 / 0.4);
+    --link-shadow-color: var(--accent-color);
+    --rec-display: flex;
+  }
 }
