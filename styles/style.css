@@ -150,7 +150,7 @@
   align-self: start;
   justify-self: end;
   inline-size: 100%;
-  margin-block-start: 55px;
+  margin-block-start: 80px;
 }
 
 .header__lead-break {
@@ -273,6 +273,10 @@
 
   .content-section_type_cards-row .content-section__title {
     inline-size: 236px;
+  }
+
+  .content-section_type_cards-row .content-section__body {
+    grid-template-columns: repeat(3, 1fr);
   }
 
   .gallery-section {
