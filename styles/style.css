@@ -53,7 +53,6 @@
   display: grid;
   grid-template-rows: 1fr min-content 1fr;
   min-block-size: 100vh;
-  min-block-size: 100dvb;
   padding: var(--page-padding);
 }
 
@@ -222,7 +221,6 @@
   display: grid;
   place-items: center;
   min-block-size: 100vh;
-  min-block-size: 100dvb;
   padding: var(--page-padding);
 }
 
