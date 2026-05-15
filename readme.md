@@ -3,7 +3,7 @@
 Учебный адаптивный сайт о концентрации внимания. Проект выполнен на HTML, CSS и JavaScript без сборщика и сторонних библиотек.
 
 ## Репозиторий
-
+Ссылка на репозиторий:
 [https://github.com/Dv1lq/slozhno-sosredotochitsya-ad](https://github.com/Dv1lq/slozhno-sosredotochitsya-ad)
 
 ## Стек
