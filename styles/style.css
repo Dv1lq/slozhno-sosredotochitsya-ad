@@ -53,6 +53,7 @@
   display: grid;
   grid-template-rows: 1fr min-content 1fr;
   min-block-size: 100vh;
+  min-block-size: 100dvb;
   padding: var(--page-padding);
 }
 
@@ -150,7 +151,7 @@
   align-self: start;
   justify-self: end;
   inline-size: 100%;
-  margin-block-start: 80px;
+  margin-block-start: 55px;
 }
 
 .header__lead-break {
@@ -221,6 +222,7 @@
   display: grid;
   place-items: center;
   min-block-size: 100vh;
+  min-block-size: 100dvb;
   padding: var(--page-padding);
 }
 
@@ -251,6 +253,10 @@
     align-self: center;
     inline-size: 50%;
     margin-block-start: 0;
+  }
+
+  .header__lead-break {
+    display: none;
   }
 
   .content {
