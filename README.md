@@ -4,8 +4,8 @@
 
 ## Репозиторий
 Ссылка на репозиторий:
-[https://github.com/Dv1lq/slozhno-sosredotochitsya-ad](https://github.com/Dv1lq/slozhno-sosredotochitsya-ad)
-
+[[https://github.com/Dv1lq/slozhno-sosredotochitsya-ad](https://github.com/Dv1lq/slozhno-sosredotochitsya-ad)
+](https://github.com/Dv1lq/slozhno-sosredotochitsya-ad)
 ## Стек
 
 - HTML5
